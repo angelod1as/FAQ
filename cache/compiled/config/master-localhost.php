@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1501425670,
-    'checksum' => 'b486c5838fe75c47dc0de93db96a846b',
+    'timestamp' => 1501427258,
+    'checksum' => 'd4cc1f8a89e3075add822e7afeb6cd0e',
     'files' => [
         'user/config' => [
             'media' => [
@@ -15,7 +15,7 @@ return [
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
-                'modified' => 1500488301
+                'modified' => 1501427100
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
@@ -23,7 +23,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1501425315
+                'modified' => 1501427258
             ],
             'themes/cacti' => [
                 'file' => 'user/config/themes/cacti.yaml',
@@ -507,18 +507,18 @@ return [
             ]
         ],
         'site' => [
-            'title' => 'Grav',
-            'default_lang' => 'en',
+            'title' => 'FAQ',
+            'default_lang' => 'pt-br',
             'author' => [
-                'name' => 'Joe Bloggs',
-                'email' => 'joe@test.com'
+                'name' => 'Angelo Dias',
+                'email' => 'angelo@angelodias.com.br'
             ],
             'taxonomies' => [
                 0 => 'category',
                 1 => 'tag'
             ],
             'metadata' => [
-                'description' => 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+                'description' => 'Perguntas frequentes sobre Angelo Dias'
             ],
             'summary' => [
                 'enabled' => true,
@@ -557,7 +557,7 @@ return [
         ],
         'system' => [
             'absolute_urls' => false,
-            'timezone' => '',
+            'timezone' => 'America/Sao_Paulo',
             'default_locale' => NULL,
             'param_sep' => ':',
             'wrapped_site' => false,
@@ -591,7 +591,7 @@ return [
                     'count' => 20
                 ],
                 'dateformat' => [
-                    'default' => NULL,
+                    'default' => 'd-m-Y H:i',
                     'short' => 'jS M Y',
                     'long' => 'F jS \\a\\t g:ia'
                 ],
@@ -607,9 +607,9 @@ return [
                     'twig' => true
                 ],
                 'markdown' => [
-                    'extra' => false,
+                    'extra' => true,
                     'auto_line_breaks' => false,
-                    'auto_url_links' => false,
+                    'auto_url_links' => true,
                     'escape_markup' => false,
                     'special_chars' => [
                         '>' => 'gt',
@@ -631,7 +631,7 @@ return [
                 'etag' => false,
                 'vary_accept_encoding' => false,
                 'redirect_default_route' => false,
-                'redirect_default_code' => 301,
+                'redirect_default_code' => '301',
                 'redirect_trailing_slash' => true,
                 'ignore_files' => [
                     0 => '.DS_Store'
@@ -691,7 +691,7 @@ return [
                 ]
             ],
             'errors' => [
-                'display' => true,
+                'display' => '1',
                 'log' => true
             ],
             'debugger' => [

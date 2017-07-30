@@ -2,15 +2,29 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/angelodias/GIT/FAQ/user/config/site.yaml',
-    'modified' => 1500488301,
+    'modified' => 1501427100,
     'data' => [
-        'title' => 'Grav',
+        'title' => 'FAQ',
+        'default_lang' => 'pt-br',
         'author' => [
-            'name' => 'Joe Bloggs',
-            'email' => 'joe@test.com'
+            'name' => 'Angelo Dias',
+            'email' => 'angelo@angelodias.com.br'
+        ],
+        'taxonomies' => [
+            0 => 'category',
+            1 => 'tag'
         ],
         'metadata' => [
-            'description' => 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+            'description' => 'Perguntas frequentes sobre Angelo Dias'
+        ],
+        'summary' => [
+            'enabled' => true,
+            'format' => 'short',
+            'size' => 300,
+            'delimiter' => '==='
+        ],
+        'blog' => [
+            'route' => '/blog'
         ]
     ]
 ];
