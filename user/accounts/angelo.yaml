@@ -1,0 +1,11 @@
+email: angelo@angelodias.com.br
+fullname: 'Angelo Dias'
+title: Owner
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$1uR1zG2XrxomZ7xPREq2MO8Ttdw7UYaucLCA/01csDk.xrUcW/9Y6

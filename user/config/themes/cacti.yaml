@@ -1,0 +1,9 @@
+enabled: true
+author: 'Wilberforce Humphries'
+title_header: false
+home_profile: true
+infinite_scroll: true
+analytics: UA-YOURCODE
+social:
+  twitter: '@angelod1as'
+  facebook: angelod1as
