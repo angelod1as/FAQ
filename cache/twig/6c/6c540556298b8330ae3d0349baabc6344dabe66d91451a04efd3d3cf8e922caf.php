@@ -106,6 +106,6 @@ class __TwigTemplate_5b662ea433543399f44e8e6f3d5f01bf16dcfac44eaa81fe72d5a809b82
     {% endfor %}
     </div>
 {% endif %}
-", "forms/fields/column/column.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/forms/fields/column/column.html.twig");
+", "forms/fields/column/column.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/forms/fields/column/column.html.twig");
     }
 }

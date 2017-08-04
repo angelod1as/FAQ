@@ -12,7 +12,7 @@ class __TwigTemplate_52a161f305fc3cb6593da7f21ffe8b0ab5eecf91b0770d88f22fb11962f
         $this->blocks = array(
             'contents' => array($this, 'block_contents'),
             'global_attributes' => array($this, 'block_global_attributes'),
-            '__internal_0c32d05e1eb346c48fb73c71fa7a03c71893324e76f7ed6e21531ca736969a03' => array($this, 'block___internal_0c32d05e1eb346c48fb73c71fa7a03c71893324e76f7ed6e21531ca736969a03'),
+            '__internal_b4d9571692fc5fdbea5c093d4fa816215fe16a7e37ff512d598c1648142efcc6' => array($this, 'block___internal_b4d9571692fc5fdbea5c093d4fa816215fe16a7e37ff512d598c1648142efcc6'),
         );
     }
 
@@ -288,7 +288,7 @@ class __TwigTemplate_52a161f305fc3cb6593da7f21ffe8b0ab5eecf91b0770d88f22fb11962f
                 foreach ($context['_seq'] as $context["childName"] => $context["child"]) {
                     // line 71
                     echo "                            ";
-                    if ((is_string($__internal_00ddd3df2353a16ae6b1f31633f4f648ccd41a679274de440b4d4f1e9eb77686 = $context["childName"]) && is_string($__internal_e713ccb9f4a6b10ee0434f98fa1614a8606ead30cbe52ee642a4947f75ce58cb = ".") && ('' === $__internal_e713ccb9f4a6b10ee0434f98fa1614a8606ead30cbe52ee642a4947f75ce58cb || 0 === strpos($__internal_00ddd3df2353a16ae6b1f31633f4f648ccd41a679274de440b4d4f1e9eb77686, $__internal_e713ccb9f4a6b10ee0434f98fa1614a8606ead30cbe52ee642a4947f75ce58cb)))) {
+                    if ((is_string($__internal_496624b9f6e9fec1b1c615b04200d8393ac18989c74c07582d5d83451e720308 = $context["childName"]) && is_string($__internal_df17e8fbf748c52a6402bee755968ee7ffb79cec232c342b1aee4522bd23f742 = ".") && ('' === $__internal_df17e8fbf748c52a6402bee755968ee7ffb79cec232c342b1aee4522bd23f742 || 0 === strpos($__internal_496624b9f6e9fec1b1c615b04200d8393ac18989c74c07582d5d83451e720308, $__internal_df17e8fbf748c52a6402bee755968ee7ffb79cec232c342b1aee4522bd23f742)))) {
                         // line 72
                         echo "                                ";
                         $context["childKey"] = twig_trim_filter($context["childName"], ".");
@@ -458,7 +458,7 @@ $context["child"], "value" => (isset($context["childValue"]) ? $context["childVa
         $context["itemName"] = (((isset($context["name"]) ? $context["name"] : null)) ? (((isset($context["name"]) ? $context["name"] : null) . ".*")) : ("*"));
         // line 128
         echo "<div style=\"display: none;\" data-collection-template=\"new\" data-collection-template-html=\"";
-        echo twig_escape_filter($this->env, twig_replace_filter(        $this->renderBlock("__internal_0c32d05e1eb346c48fb73c71fa7a03c71893324e76f7ed6e21531ca736969a03", $context, $blocks), array("   " => " ", "
+        echo twig_escape_filter($this->env, twig_replace_filter(        $this->renderBlock("__internal_b4d9571692fc5fdbea5c093d4fa816215fe16a7e37ff512d598c1648142efcc6", $context, $blocks), array("   " => " ", "
 " => " ")), "html_attr");
         // line 172
         echo "\"></div>
@@ -491,7 +491,7 @@ $context["child"], "value" => (isset($context["childValue"]) ? $context["childVa
     }
 
     // line 128
-    public function block___internal_0c32d05e1eb346c48fb73c71fa7a03c71893324e76f7ed6e21531ca736969a03($context, array $blocks = array())
+    public function block___internal_b4d9571692fc5fdbea5c093d4fa816215fe16a7e37ff512d598c1648142efcc6($context, array $blocks = array())
     {
         // line 129
         echo "<li data-collection-item=\"";
@@ -524,7 +524,7 @@ $context["child"], "value" => (isset($context["childValue"]) ? $context["childVa
             }
             foreach ($context['_seq'] as $context["childName"] => $context["child"]) {
                 // line 135
-                if ((is_string($__internal_cdad435a380795903ff0a107bf33e1cba2d40386ad86c8a410534a3790fcb2b9 = $context["childName"]) && is_string($__internal_bf4e608bca8910acddf3cc4ced322ec7f4ca851c02a13d53f32d8dbd17a4a52a = ".") && ('' === $__internal_bf4e608bca8910acddf3cc4ced322ec7f4ca851c02a13d53f32d8dbd17a4a52a || 0 === strpos($__internal_cdad435a380795903ff0a107bf33e1cba2d40386ad86c8a410534a3790fcb2b9, $__internal_bf4e608bca8910acddf3cc4ced322ec7f4ca851c02a13d53f32d8dbd17a4a52a)))) {
+                if ((is_string($__internal_362527f312baea27f873a0e998ae768d887abe0141881efeafe7ec2c0c5782c2 = $context["childName"]) && is_string($__internal_0f85a617f0cd1c40217969666b8e77fd3a2553b4f160cdda649fb859fb553a11 = ".") && ('' === $__internal_0f85a617f0cd1c40217969666b8e77fd3a2553b4f160cdda649fb859fb553a11 || 0 === strpos($__internal_362527f312baea27f873a0e998ae768d887abe0141881efeafe7ec2c0c5782c2, $__internal_0f85a617f0cd1c40217969666b8e77fd3a2553b4f160cdda649fb859fb553a11)))) {
                     // line 136
                     $context["childKey"] = twig_trim_filter($context["childName"], ".");
                     // line 137
@@ -781,6 +781,6 @@ $context["child"], "value" => null)));
     </div>
 {% endblock %}
 
-", "forms/fields/list/list.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/forms/fields/list/list.html.twig");
+", "forms/fields/list/list.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/forms/fields/list/list.html.twig");
     }
 }

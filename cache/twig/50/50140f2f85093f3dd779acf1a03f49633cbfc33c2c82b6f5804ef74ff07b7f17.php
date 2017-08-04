@@ -49,6 +49,6 @@ class __TwigTemplate_5d659156f6f26ee5476d39f85a86c444933e1141043fb55115ecab8cf3b
     public function getSourceContext()
     {
         return new Twig_Source("{% extends 'partials/base-root.html.twig' %}
-", "partials/base.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/base.html.twig");
+", "partials/base.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/base.html.twig");
     }
 }

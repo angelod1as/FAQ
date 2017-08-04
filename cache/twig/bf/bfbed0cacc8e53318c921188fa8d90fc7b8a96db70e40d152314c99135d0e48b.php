@@ -159,6 +159,6 @@ class __TwigTemplate_e5bd6ccb06ec08d009b576eb6b5e56bcef7b6ad2410e57f72e2cdd16825
         </div>
     </form>
 </div>
-", "partials/modal-reinstall-package.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/modal-reinstall-package.html.twig");
+", "partials/modal-reinstall-package.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/modal-reinstall-package.html.twig");
     }
 }

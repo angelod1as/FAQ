@@ -91,6 +91,6 @@ class __TwigTemplate_74381769a4bdd2bbc77be3a75bf93c45f3ec3ef51b835ec123d39db02e9
     {% do assets.addCss(theme_url~'/css/nucleus-ie9.css') %}
     {% do assets.addCss(theme_url~'/css/pure-0.5.0/grids-min.css') %}
 {% endif %}
-", "partials/stylesheets.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/stylesheets.html.twig");
+", "partials/stylesheets.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/stylesheets.html.twig");
     }
 }

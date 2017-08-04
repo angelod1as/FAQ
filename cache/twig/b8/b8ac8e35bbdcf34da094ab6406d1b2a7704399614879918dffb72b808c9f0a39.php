@@ -99,6 +99,6 @@ class __TwigTemplate_b6a653264acca7ad782fa63c091910bc695593b377972412534de0e510e
 {% endif %}
 </div>
 
-", "forms/fields/columns/columns.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/forms/fields/columns/columns.html.twig");
+", "forms/fields/columns/columns.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/forms/fields/columns/columns.html.twig");
     }
 }

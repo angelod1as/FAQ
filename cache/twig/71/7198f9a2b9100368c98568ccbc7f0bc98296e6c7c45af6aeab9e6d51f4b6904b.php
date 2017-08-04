@@ -28,7 +28,7 @@ class __TwigTemplate_705ae59689f79bd944404021f559928fcdd47bbdbf750ea6395ceb80cbf
         // line 3
         if ($this->getAttribute((isset($context["admin"]) ? $context["admin"] : null), "route", array())) {
             // line 4
-            $context["installing"] = (is_string($__internal_ce681032746f9f21de713913057cd377bdeb4ea9db0a3f081c77b64e9d33bdf5 = $this->getAttribute((isset($context["admin"]) ? $context["admin"] : null), "route", array())) && is_string($__internal_85207c66c96f753c08879cd43410557fd1897569ddc394808ea958708c9fb9c1 = "install") && ('' === $__internal_85207c66c96f753c08879cd43410557fd1897569ddc394808ea958708c9fb9c1 || 0 === strpos($__internal_ce681032746f9f21de713913057cd377bdeb4ea9db0a3f081c77b64e9d33bdf5, $__internal_85207c66c96f753c08879cd43410557fd1897569ddc394808ea958708c9fb9c1)));
+            $context["installing"] = (is_string($__internal_e9b12a25a41213b6609300ec1e605a629b578f46d7afbe400b2ca5f401c9d7a0 = $this->getAttribute((isset($context["admin"]) ? $context["admin"] : null), "route", array())) && is_string($__internal_493c1836b4a7672707b6c23d81e366aa9dda178d0e72539538a397295ee7c15d = "install") && ('' === $__internal_493c1836b4a7672707b6c23d81e366aa9dda178d0e72539538a397295ee7c15d || 0 === strpos($__internal_e9b12a25a41213b6609300ec1e605a629b578f46d7afbe400b2ca5f401c9d7a0, $__internal_493c1836b4a7672707b6c23d81e366aa9dda178d0e72539538a397295ee7c15d)));
             // line 6
             if ((isset($context["installing"]) ? $context["installing"] : null)) {
                 // line 7
@@ -332,6 +332,6 @@ class __TwigTemplate_705ae59689f79bd944404021f559928fcdd47bbdbf750ea6395ceb80cbf
         {% endif %}
     </div>
 {% endblock %}
-", "themes.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/themes.html.twig");
+", "themes.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/themes.html.twig");
     }
 }

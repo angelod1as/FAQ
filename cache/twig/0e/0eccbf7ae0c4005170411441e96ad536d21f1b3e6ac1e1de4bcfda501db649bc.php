@@ -355,6 +355,6 @@ class __TwigTemplate_87c09e1c31bc14cc10e1ebc3ca3ae72dd26bd2fd90ad0046cd4efe62e9d
 
 {% include 'partials/modal-add-package.html.twig' with { type: 'theme' } %}
 {% include 'partials/modal-update-packages.html.twig' with { type: 'theme' } %}
-", "partials/themes-list.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/themes-list.html.twig");
+", "partials/themes-list.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/themes-list.html.twig");
     }
 }

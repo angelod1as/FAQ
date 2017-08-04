@@ -242,6 +242,6 @@ class __TwigTemplate_7ccb0e841a523a3af3adcfeb6983e2cc2117b99d5566b661eb409b1483b
     <span class=\"range-append\">{{ field.append }}</span>
 
 {% endblock append %}
-", "forms/fields/range/range.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/forms/fields/range/range.html.twig");
+", "forms/fields/range/range.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/forms/fields/range/range.html.twig");
     }
 }

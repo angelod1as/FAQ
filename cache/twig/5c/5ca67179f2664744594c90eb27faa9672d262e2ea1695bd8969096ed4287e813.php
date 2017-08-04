@@ -86,6 +86,6 @@ class __TwigTemplate_5bdc57e4b3372b981df0e8c83f017afdfdef01eb0d646fe062b7a8eecd8
     <div class=\"error alert\">{{ form_message|raw }}</div>
     {%- endif -%}
 </div>
-", "partials/messages.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/messages.html.twig");
+", "partials/messages.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/messages.html.twig");
     }
 }

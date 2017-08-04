@@ -96,6 +96,6 @@ class __TwigTemplate_04f2fcdfb357eb3aa6bdc7b5394427a517840f0377ae40b85d50ca6e9dc
     </select>
     <div class=\"sort-icon\"><i class=\"fa fa-fw fa-sort-amount-asc\"></i></div>
 </div>
-", "partials/list-sort.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/list-sort.html.twig");
+", "partials/list-sort.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/list-sort.html.twig");
     }
 }

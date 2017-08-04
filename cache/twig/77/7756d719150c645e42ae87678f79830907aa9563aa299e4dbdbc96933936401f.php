@@ -104,6 +104,6 @@ class __TwigTemplate_9ff9d0b13eb9b4a0845708b8984227019135c4c334837cde1217d4ef3bf
     {% endfor %}
     </div>
 {% endif %}
-", "forms/fields/tab/tab.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/forms/fields/tab/tab.html.twig");
+", "forms/fields/tab/tab.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/forms/fields/tab/tab.html.twig");
     }
 }

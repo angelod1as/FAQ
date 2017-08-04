@@ -162,6 +162,6 @@ class __TwigTemplate_8abfa59be1fdfca19e8338d3b0d3c2c2f2b55f64210be2b35dd5f30e8dc
     {% endfor %}
 </script>
 {% endif %}
-", "partials/javascript-config.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/javascript-config.html.twig");
+", "partials/javascript-config.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/javascript-config.html.twig");
     }
 }

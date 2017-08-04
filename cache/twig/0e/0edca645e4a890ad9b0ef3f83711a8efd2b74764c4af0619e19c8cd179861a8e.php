@@ -81,6 +81,6 @@ class __TwigTemplate_7a9cc1ae22395f9c48e5823ecf23c6129867a6e2e3e37f1a04869a81648
         <a></a>
     </div>
 </form>
-", "partials/release-toggle.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/release-toggle.html.twig");
+", "partials/release-toggle.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/release-toggle.html.twig");
     }
 }

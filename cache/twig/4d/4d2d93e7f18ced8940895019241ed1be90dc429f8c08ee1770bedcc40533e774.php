@@ -281,6 +281,6 @@ class __TwigTemplate_d91480aafbc48e46fe70fe06d99cc6907f87b558f9e9e5f8854fde38b95
     {% endif %}
 
 </table>
-", "partials/plugin-data.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/plugin-data.html.twig");
+", "partials/plugin-data.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/plugin-data.html.twig");
     }
 }

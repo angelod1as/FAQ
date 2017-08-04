@@ -70,6 +70,6 @@ class __TwigTemplate_d1ca6507b7a8f271e0c75a4cc38c74e0c75db111dc24eba2ac1475cbc36
     {% if field.disabled or isDisabledToggleable %}disabled=\"disabled\"{% endif %}
     name=\"{{ (scope ~ field.name)|fieldName }}\"
     value=\"{{ blueprints.name }}\" />
-", "forms/fields/blueprint/blueprint.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/forms/fields/blueprint/blueprint.html.twig");
+", "forms/fields/blueprint/blueprint.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/forms/fields/blueprint/blueprint.html.twig");
     }
 }

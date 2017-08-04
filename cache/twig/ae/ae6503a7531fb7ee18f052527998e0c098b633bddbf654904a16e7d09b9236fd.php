@@ -261,6 +261,6 @@ class __TwigTemplate_eae78f5c6bee40fb19c9ec9867039b7bf1531584b90f6f091b9161285da
 {% include 'partials/modal-update-packages.html.twig' with { type: 'plugin' } %}
 {% include 'partials/modal-remove-package.html.twig' with { type: 'plugin', package: plugin } %}
 {% include 'partials/modal-reinstall-package.html.twig' with { type: 'plugin', package: plugin } %}
-", "partials/plugins-details.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/plugins-details.html.twig");
+", "partials/plugins-details.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/plugins-details.html.twig");
     }
 }

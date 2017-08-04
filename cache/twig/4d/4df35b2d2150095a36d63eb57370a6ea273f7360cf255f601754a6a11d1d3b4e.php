@@ -87,6 +87,6 @@ class __TwigTemplate_d8841dac29335de07adabe2d25556abaf7b6b8121c93c961f56cea6a332
     type=\"text\"
     {{ parent() }}
 {% endblock %}
-", "forms/fields/selectize/selectize.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/forms/fields/selectize/selectize.html.twig");
+", "forms/fields/selectize/selectize.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/forms/fields/selectize/selectize.html.twig");
     }
 }

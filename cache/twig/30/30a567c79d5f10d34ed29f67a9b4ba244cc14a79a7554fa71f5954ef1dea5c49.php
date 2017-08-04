@@ -384,6 +384,6 @@ class __TwigTemplate_9fc785aa283d15ea0c581fd9dcbfc655f91a760af84db77315d727bc757
         </div>
     </nav>
 {% endif %}
-", "partials/nav.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/nav.html.twig");
+", "partials/nav.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/nav.html.twig");
     }
 }

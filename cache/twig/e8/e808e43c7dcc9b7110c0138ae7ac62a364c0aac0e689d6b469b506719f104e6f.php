@@ -84,6 +84,6 @@ class __TwigTemplate_76778c7f6b90c691033f42662671e5170f09a60bd73b9d08fb3b4e29373
 </div>
 
 
-", "partials/page-legend.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/page-legend.html.twig");
+", "partials/page-legend.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/page-legend.html.twig");
     }
 }

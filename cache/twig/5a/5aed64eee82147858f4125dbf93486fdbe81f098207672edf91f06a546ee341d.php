@@ -127,6 +127,6 @@ $context["name"]), "name" => ((            // line 14
 
     {% include ['forms/fields/select/select.html.twig'] %}
 {% endfor %}
-", "forms/fields/taxonomy/taxonomy.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/forms/fields/taxonomy/taxonomy.html.twig");
+", "forms/fields/taxonomy/taxonomy.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/forms/fields/taxonomy/taxonomy.html.twig");
     }
 }

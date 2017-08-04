@@ -37,6 +37,6 @@ class __TwigTemplate_f557527069db4629e5da04df7de55c84979610c395e86d599312bd8b965
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "empty.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/empty.html.twig");
+        return new Twig_Source("", "empty.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/empty.html.twig");
     }
 }

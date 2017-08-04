@@ -108,6 +108,6 @@ class __TwigTemplate_d9d64d34dd2af40f311ca27afead8f82dfe00b1603a766228799ae221b9
 
 
 
-", "partials/logo.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/logo.html.twig");
+", "partials/logo.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/logo.html.twig");
     }
 }

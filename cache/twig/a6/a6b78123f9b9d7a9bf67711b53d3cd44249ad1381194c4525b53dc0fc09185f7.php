@@ -116,6 +116,6 @@ class __TwigTemplate_936bcac15b23cae1ecd136941ff4a01d42dde892c73deb9f1886100268d
 
 </div>
 
-", "partials/tools-direct-install.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/tools-direct-install.html.twig");
+", "partials/tools-direct-install.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/tools-direct-install.html.twig");
     }
 }

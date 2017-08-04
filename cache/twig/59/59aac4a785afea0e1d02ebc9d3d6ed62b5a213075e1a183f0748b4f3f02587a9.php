@@ -180,6 +180,6 @@ class __TwigTemplate_f2a228f5b1736a7c4cd5c36aebd170a484b75e014ab7cb66b503772bb75
 {% endblock %}
 
 
-", "forms/fields/themeselect/themeselect.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/forms/fields/themeselect/themeselect.html.twig");
+", "forms/fields/themeselect/themeselect.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/forms/fields/themeselect/themeselect.html.twig");
     }
 }

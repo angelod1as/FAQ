@@ -30,7 +30,7 @@ class __TwigTemplate_053f5346f0c3df34499cf5ed071a8e8d50eb33b5b2003984c7c78162770
         // line 5
         if ((isset($context["plugin_slug"]) ? $context["plugin_slug"] : null)) {
             // line 6
-            $context["installing"] = (is_string($__internal_b7ff73ecfc91ac239b960852f1067f7438cbc4b0016972fb54bb285e0bf7ad01 = (isset($context["plugin_slug"]) ? $context["plugin_slug"] : null)) && is_string($__internal_046a87760220fcbe3622f1254d215c17872fba69dd8ff6f6f3388cb3edac9db4 = "install") && ('' === $__internal_046a87760220fcbe3622f1254d215c17872fba69dd8ff6f6f3388cb3edac9db4 || 0 === strpos($__internal_b7ff73ecfc91ac239b960852f1067f7438cbc4b0016972fb54bb285e0bf7ad01, $__internal_046a87760220fcbe3622f1254d215c17872fba69dd8ff6f6f3388cb3edac9db4)));
+            $context["installing"] = (is_string($__internal_0cfc919348e58a6ba24c913cadb2cf6926eb8f4f80eb97c810a43757e64f55bb = (isset($context["plugin_slug"]) ? $context["plugin_slug"] : null)) && is_string($__internal_b99cadbbc5282835ee56f11a89e6fdecf67181881b8c7d3e091ebaf6911d7fd6 = "install") && ('' === $__internal_b99cadbbc5282835ee56f11a89e6fdecf67181881b8c7d3e091ebaf6911d7fd6 || 0 === strpos($__internal_0cfc919348e58a6ba24c913cadb2cf6926eb8f4f80eb97c810a43757e64f55bb, $__internal_b99cadbbc5282835ee56f11a89e6fdecf67181881b8c7d3e091ebaf6911d7fd6)));
             // line 8
             if ((isset($context["installing"]) ? $context["installing"] : null)) {
                 // line 9
@@ -351,6 +351,6 @@ class __TwigTemplate_053f5346f0c3df34499cf5ed071a8e8d50eb33b5b2003984c7c78162770
         {% endif %}
     </div>
 {% endblock %}
-", "plugins.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/plugins.html.twig");
+", "plugins.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/plugins.html.twig");
     }
 }

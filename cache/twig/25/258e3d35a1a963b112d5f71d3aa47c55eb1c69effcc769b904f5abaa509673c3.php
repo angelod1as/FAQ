@@ -511,6 +511,6 @@ class __TwigTemplate_82a18d3f0a65a010f605d2a57e6fbe765e63f66f9fd6f86e299aeb4f6fc
     {% endblock body %}
     </html>
 {% endif %}
-", "partials/base-root.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/base-root.html.twig");
+", "partials/base-root.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/base-root.html.twig");
     }
 }

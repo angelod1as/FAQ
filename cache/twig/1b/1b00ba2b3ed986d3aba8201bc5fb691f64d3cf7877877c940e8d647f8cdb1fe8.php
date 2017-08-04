@@ -209,6 +209,6 @@ class __TwigTemplate_35f7b4ec63139933b5b0685fffcd5f68c28d196302c4cb73332bc877e76
         </span>
     {% endfor %}
 {% endblock %}
-", "forms/fields/checkboxes/checkboxes.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/form/templates/forms/fields/checkboxes/checkboxes.html.twig");
+", "forms/fields/checkboxes/checkboxes.html.twig", "/home/angel281/public_html/faq/user/plugins/form/templates/forms/fields/checkboxes/checkboxes.html.twig");
     }
 }

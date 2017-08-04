@@ -359,6 +359,6 @@ class __TwigTemplate_2f260f5fd1a5c516025427d717dfbfc76a682cccee6aed6f702d8916af1
         {%- endif %}
     </div>
 {% endblock %}
-", "forms/fields/array/array.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/forms/fields/array/array.html.twig");
+", "forms/fields/array/array.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/forms/fields/array/array.html.twig");
     }
 }

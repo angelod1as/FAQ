@@ -84,6 +84,6 @@ class __TwigTemplate_868bda97172612c0093357ab9c9413f2a4fdd61c9da95f4b83659471b22
         </div>
     </a>
 </div>
-", "partials/nav-user-details.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/nav-user-details.html.twig");
+", "partials/nav-user-details.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/nav-user-details.html.twig");
     }
 }

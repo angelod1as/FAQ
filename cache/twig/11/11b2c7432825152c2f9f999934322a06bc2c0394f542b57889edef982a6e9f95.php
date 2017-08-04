@@ -82,6 +82,6 @@ class __TwigTemplate_acaa4160d8ee0e8cc83aa5d051b10e5304e69189b3b01bdf56b98825b06
         return new Twig_Source("{% for meta in page.metadata %}
 <meta {% if meta.name %}name=\"{{ meta.name }}\" {% endif %}{% if meta.http_equiv %}http-equiv=\"{{ meta.http_equiv }}\" {% endif %}{% if meta.charset %}charset=\"{{ meta.charset }}\" {% endif %}{% if meta.property %}property=\"{{ meta.property }}\" {% endif %}{% if meta.content %}content=\"{{ meta.content }}\" {% endif %}/>
 {% endfor %}
-", "partials/metadata.html.twig", "/Users/angelodias/GIT/FAQ/user/themes/antimatter/templates/partials/metadata.html.twig");
+", "partials/metadata.html.twig", "/home/angel281/public_html/faq/user/themes/antimatter/templates/partials/metadata.html.twig");
     }
 }

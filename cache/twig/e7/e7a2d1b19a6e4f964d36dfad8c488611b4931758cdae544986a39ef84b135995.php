@@ -370,6 +370,6 @@ class __TwigTemplate_7d7e0a17e8cf8aa04d3c6491e123aa7bdd3a507b2388714f2f20f73e286
     {% endif %}
     {% include 'partials/modal-changes-detected.html.twig' %}
 {% endblock %}
-", "config.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/config.html.twig");
+", "config.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/config.html.twig");
     }
 }

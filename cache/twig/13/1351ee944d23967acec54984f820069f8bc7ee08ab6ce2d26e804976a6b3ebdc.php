@@ -280,6 +280,6 @@ class __TwigTemplate_2841c292982149a4d83274b1eb390c98058e2d167f6310fca5d362c796c
     {% endif %}
 </ul>
 
-", "partials/navigation.html.twig", "/Users/angelodias/GIT/FAQ/user/themes/antimatter/templates/partials/navigation.html.twig");
+", "partials/navigation.html.twig", "/home/angel281/public_html/faq/user/themes/antimatter/templates/partials/navigation.html.twig");
     }
 }

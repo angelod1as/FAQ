@@ -426,6 +426,6 @@ class __TwigTemplate_e21e89ad08cf1cf22241bcc6fc200b6084bb2aa2c8b9ed88821b2f7e1fb
     {% endblock %}
 </body>
 </html>
-", "partials/base.html.twig", "/Users/angelodias/GIT/FAQ/user/themes/antimatter/templates/partials/base.html.twig");
+", "partials/base.html.twig", "/home/angel281/public_html/faq/user/themes/antimatter/templates/partials/base.html.twig");
     }
 }

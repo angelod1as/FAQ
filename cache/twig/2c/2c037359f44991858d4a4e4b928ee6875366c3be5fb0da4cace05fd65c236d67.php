@@ -173,6 +173,6 @@ class __TwigTemplate_f0296df0c679549c9f632744f9c056fc7fea3187737ddee91d8345df4e7
         </div>
     </form>
 </div>
-", "partials/modal-remove-package.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/modal-remove-package.html.twig");
+", "partials/modal-remove-package.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/modal-remove-package.html.twig");
     }
 }

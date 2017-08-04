@@ -272,6 +272,6 @@ class __TwigTemplate_c3fb053fbfaba3a3e4f86abe7330ce113ac1a7b0f58d645c5a0e16c23b1
         </div>
 
     </form>
-</div>", "partials/modal-add-package.html.twig", "/Users/angelodias/GIT/FAQ/user/plugins/admin/themes/grav/templates/partials/modal-add-package.html.twig");
+</div>", "partials/modal-add-package.html.twig", "/home/angel281/public_html/faq/user/plugins/admin/themes/grav/templates/partials/modal-add-package.html.twig");
     }
 }
